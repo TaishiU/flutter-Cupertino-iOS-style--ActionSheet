@@ -1,5 +1,7 @@
 # cupertino_action_sheet
 
+![CB511B85-A84A-43F4-A934-0A59E08ED8B5_1_201_a](https://user-images.githubusercontent.com/73986840/119964010-b16b1b00-bfe3-11eb-9291-aa058ff09681.jpeg)
+
 ## 参考
 https://medium.com/flutterdevs/know-your-widgets-1-cupertino-ios-style-actionsheet-in-flutter-e6d7d8dfb437
 
